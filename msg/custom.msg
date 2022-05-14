@@ -1,0 +1,4 @@
+std_msgs/Float64MultiArray obstcale_distances
+std_msgs/Float64MultiArray start_angles
+std_msgs/Int64 no_of_obstcales
+std_msgs/String status
